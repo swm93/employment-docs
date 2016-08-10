@@ -3,6 +3,12 @@ LaTeX classes for creating resumes and cover letters.
 
 This repository contains simple classes that can be used to create resumes and cover letters using LaTeX. All classes extend the `article` class.
 
+## Examples
+
+<img src="examples/output/resume.png" alt="Resume" width="48%" />
+<img src="examples/output/coverletter.png" alt="Cover Letter" width="48%" />
+*Examples of resume (left) and coverletter (right) using the `resume.cls` and `coverletter.cls` classes.*
+
 ## resume.cls
 ### Environments
 `header`: contains candidate information; name, address, and contact info
