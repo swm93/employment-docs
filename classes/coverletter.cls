@@ -36,6 +36,7 @@
 % COMMANDS
 \newcommand{\divider}{\ \ \textbar\ \ }
 \newcommand{\multilinecell}[3][c]{\begin{tabular}[#1]{@{}#2@{}}#3\end{tabular}}
+\newcommand{\link}[2]{\href{#1}{\textbf{#2}}}
 
 \newcommand{\name}[1]{\textbf{\uppercase{#1}}}
 \newcommand{\company}[1]{\textbf{\uppercase{#1}}}
