@@ -11,7 +11,7 @@
 
 
 % ENVIRONMENTS
-\renewenvironment{header}
+\newenvironment{header}
 {
 	\noindent\hspace*{-0.275cm}
 	\begin{tabular}{!{\hskip \tabcolsep \vrule width 0.35pt \hskip \tabcolsep} l}
